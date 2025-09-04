@@ -1,0 +1,19 @@
+# Ignorar arquivos temporários do Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar ambientes virtuais
+.env/
+.venv/
+env/
+venv/
